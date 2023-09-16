@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Sign Up by filling all the fields to get started.
+You will be re-directed to the dashboard.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
